@@ -1,0 +1,118 @@
+{
+    "Drops": [
+        {
+            "Criatura": "Zumbi",
+            "Drop": "Coração Podre",
+            "Chance": "30%",
+            "Descricao": "Um coração em decomposição que pode ser usado em poções."
+        },
+        {
+            "Criatura": "Zumbi",
+            "Drop": "Tecido Rasgado",
+            "Chance": "50%",
+            "Descricao": "Um pedaço de tecido que pode ser usado para criar bandagens."
+        },
+        {
+            "Criatura": "Orc",
+            "Drop": "Machado do Orc",
+            "Chance": "25%",
+            "Descricao": "Um machado de guerra usado por orcs, afiado e pesado."
+        },
+        {
+            "Criatura": "Orc",
+            "Drop": "Orelha de Orc",
+            "Chance": "40%",
+            "Descricao": "Um troféu que pode ser usado para criação ou comércio."
+        },
+        {
+            "Criatura": "Dragão",
+            "Drop": "Escama de Dragão",
+            "Chance": "100%",
+            "Descricao": "Uma escama resistente que pode ser usada para armaduras."
+        },
+        {
+            "Criatura": "Dragão",
+            "Drop": "Ovo de Dragão",
+            "Chance": "10%",
+            "Descricao": "Um ovo raro que pode ser incubado."
+        },
+        {
+            "Criatura": "Dragão",
+            "Drop": "Dente de Dragão",
+            "Chance": "30%",
+            "Descricao": "Um dente afiado, usado como arma ou ferramenta."
+        },
+        {
+            "Criatura": "Espectro",
+            "Drop": "Fragmento de Alma",
+            "Chance": "50%",
+            "Descricao": "Um pedaço de alma que pode ser usado em rituais."
+        },
+        {
+            "Criatura": "Espectro",
+            "Drop": "Roupas Espectral",
+            "Chance": "20%",
+            "Descricao": "Uma vestimenta etérea que oferece proteção contra o frio."
+        },
+        {
+            "Criatura": "Lobo Selvagem",
+            "Drop": "Pele de Lobo",
+            "Chance": "60%",
+            "Descricao": "Uma pele macia que pode ser usada para fazer roupas."
+        },
+        {
+            "Criatura": "Lobo Selvagem",
+            "Drop": "Dente de Lobo",
+            "Chance": "50%",
+            "Descricao": "Um dente afiado, útil em artesanato."
+        },
+        {
+            "Criatura": "Múmia",
+            "Drop": "Pó de Múmia",
+            "Chance": "80%",
+            "Descricao": "Um ingrediente raro, usado em poções e rituais."
+        },
+        {
+            "Criatura": "Múmia",
+            "Drop": "Linho Antigo",
+            "Chance": "40%",
+            "Descricao": "Um tecido que pode ser usado para criar vestimentas."
+        },
+        {
+            "Criatura": "Golem de Pedra",
+            "Drop": "Fragmento de Pedra",
+            "Chance": "100%",
+            "Descricao": "Um pedaço de pedra resistente, útil para construção."
+        },
+        {
+            "Criatura": "Golem de Pedra",
+            "Drop": "Olho de Golem",
+            "Chance": "30%",
+            "Descricao": "Um cristal que brilha em um tom verde, pode ser usado em poções."
+        },
+        {
+            "Criatura": "Vampiro",
+            "Drop": "Sangue de Vampiro",
+            "Chance": "50%",
+            "Descricao": "Um ingrediente raro, usado em poções poderosas."
+        },
+        {
+            "Criatura": "Vampiro",
+            "Drop": "Dente Feroz",
+            "Chance": "40%",
+            "Descricao": "Um dente afiado, que pode ser usado como arma."
+        },
+        {
+            "Criatura": "Banshee",
+            "Drop": "Voz de Banshee",
+            "Chance": "50%",
+            "Descricao": "Um fragmento de sua essência, usado em encantamentos."
+        },
+        {
+            "Criatura": "Banshee",
+            "Drop": "Vestígios de Lamento",
+            "Chance": "30%",
+            "Descricao": "Um item etéreo, utilizado em rituais mágicos."
+        }
+    ]
+}

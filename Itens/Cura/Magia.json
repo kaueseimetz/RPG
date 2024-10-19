@@ -1,0 +1,18 @@
+{
+    "Magia": {
+        "MagiaDeCuraLeve": {
+            "CuraBase": 4,
+            "Cura": "2d8",
+            "Usos": 0,
+            "Tipo": "Magia",
+            "Descricao": "Uma magia simples, que cura ferimentos pequenos e médios."
+        },
+        "MagiaDeCuraAvancada": {
+            "CuraBase": 10,
+            "Cura": "5d8",
+            "Usos": 0,
+            "Tipo": "Magia",
+            "Descricao": "Uma poderosa magia de cura que restaura uma grande quantidade de pontos de vida."
+        }
+    }
+}

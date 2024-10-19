@@ -1,0 +1,38 @@
+{
+    "Anjo": {
+        "Vida": 80,
+        "Ataque": 10,
+        "Defesa": 7,
+        "Descricao": "Seres celestiais que trazem justiça e cura.",
+        "Habilidades": [
+            {
+                "Nome": "Luz Curativa",
+                "Dano": "0",
+                "Efeito": "Restaura 3d6 pontos de vida a um aliado."
+            },
+            {
+                "Nome": "Espada de Luz",
+                "Dano": "3d8",
+                "Tipo": "Luz"
+            }
+        ]
+    },
+    "Demônio": {
+        "Vida": 100,
+        "Ataque": 15,
+        "Defesa": 5,
+        "Descricao": "Seres malignos que trazem destruição.",
+        "Habilidades": [
+            {
+                "Nome": "Chamas Infernais",
+                "Dano": "4d6",
+                "Tipo": "Fogo"
+            },
+            {
+                "Nome": "Cura Maléfica",
+                "Dano": "0",
+                "Efeito": "Restaura 10 pontos de vida a si mesmo."
+            }
+        ]
+    }
+}

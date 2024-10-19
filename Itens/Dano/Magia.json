@@ -1,0 +1,57 @@
+{
+    "Magia": {
+        "Cajado de Fogo": {
+            "Dano": "6d8",
+            "Tipo": "Fogo",
+            "Alcance": 30 
+        },
+        "Cajado de Gelo": {
+            "Dano": "4d10",
+            "Tipo": "Gelo",
+            "Alcance": 25,
+            "Efeito": "Reduz velocidade do alvo por 2 turnos"
+        },
+        "Varinha de Relâmpago": {
+            "Dano": "5d12",
+            "Tipo": "Elétrico",
+            "Alcance": 40 
+        },
+        "Livro de Invocação": {
+            "Efeito": "Invoca criatura mágica para lutar",
+            "Alcance": 5,
+            "Duracao": "3 turnos"
+        },
+        "Esfera de Energia": {
+            "Dano": "7d6",
+            "Tipo": "Energia pura",
+            "Alcance": 50 
+        },
+        "Bola de Fogo": {
+            "Dano": "5d10",
+            "Tipo": "Fogo",
+            "RaioExplosao": 5,
+            "Alcance": 30 
+        },
+        "Raio Congelante": {
+            "Dano": "4d8",
+            "Tipo": "Gelo",
+            "Alcance": 20,
+            "Efeito": "Congela o alvo por 1 turno"
+        },
+        "Explosão Arcana": {
+            "Dano": "6d8",
+            "Tipo": "Mágico",
+            "RaioExplosao": 8,
+            "Alcance": 25 
+        },
+        "Barreira Mágica": {
+            "Efeito": "Cria uma barreira de proteção por 3 turnos",
+            "Alcance": 15 
+        },
+        "Meteoro": {
+            "Dano": "8d10",
+            "Tipo": "Fogo",
+            "Alcance": 60 
+        }
+    }    
+}

@@ -1,0 +1,44 @@
+{
+    "CorpoACorpo": {
+        "Faca": {
+            "Dano": "1d6",
+            "Alcance": 1 
+        },
+        "Espada": {
+            "Dano": "2d6",
+            "Alcance": 1 
+        },
+        "Machado": {
+            "Dano": "3d6",
+            "Alcance": 1 
+        },
+        "Martelo de Guerra": {
+            "Dano": "4d6",
+            "Alcance": 1 
+        },
+        "Lança Longa": {
+            "Dano": "3d8",
+            "Alcance": 3 
+        },
+        "Bastão": {
+            "Dano": "2d6",
+            "Alcance": 1.5 
+        },
+        "Cimitarra": {
+            "Dano": "3d6",
+            "Alcance": 1 
+        },
+        "Katana": {
+            "Dano": "4d6",
+            "Alcance": 1 
+        },
+        "Maça": {
+            "Dano": "3d8",
+            "Alcance": 1 
+        },
+        "Corrente com Gancho": {
+            "Dano": "2d8",
+            "Alcance": 3
+        }
+    }
+}

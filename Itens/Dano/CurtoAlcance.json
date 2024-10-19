@@ -1,0 +1,64 @@
+{
+    "CurtoAlcance": {
+        "Espingarda": {
+            "Dano": "4d6",
+            "Capacidade": 2,
+            "Municao": 4.56,
+            "Alcance": 20 
+        },
+        "Pistola": {
+            "Dano": "2d8",
+            "Capacidade": 12,
+            "Municao": 9,
+            "Alcance": 50 
+        },
+        "Revólver": {
+            "Dano": "3d6",
+            "Capacidade": 6,
+            "Municao": 0.38,
+            "Alcance": 40 
+        },
+        "Escopeta Tática": {
+            "Dano": "5d6",
+            "Capacidade": 6,
+            "Municao": 12,
+            "Alcance": 15 
+        },
+        "SMG (Uzi)": {
+            "Dano": "3d8",
+            "Capacidade": 25,
+            "Municao": 9,
+            "Alcance": 70 
+        },
+        "Desert Eagle": {
+            "Dano": "4d10",
+            "Capacidade": 7,
+            "Municao": 0.50,
+            "Alcance": 60 
+        },
+        "Escopeta de Cano Serrado": {
+            "Dano": "5d6",
+            "Capacidade": 2,
+            "Municao": 12,
+            "Alcance": 10 
+        },
+        "Pistola de Fogo": {
+            "Dano": "2d10",
+            "Capacidade": 1,
+            "Municao": "Magia de Fogo",
+            "Alcance": 30 
+        },
+        "SMG (MP5)": {
+            "Dano": "3d6",
+            "Capacidade": 30,
+            "Municao": 9,
+            "Alcance": 75 
+        },
+        "Pistola Silenciada": {
+            "Dano": "2d8",
+            "Capacidade": 8,
+            "Municao": 9,
+            "Alcance": 50 
+        }
+    }
+}

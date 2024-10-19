@@ -1,0 +1,165 @@
+{
+    "Zumbis": {
+        "Vida": 30,
+        "Ataque": 5,
+        "Defesa": 2,
+        "Descricao": "Mortos-vivos que vagueiam em busca de carne fresca.",
+        "Habilidades": [
+            {
+                "Nome": "Mordida",
+                "Dano": "1d6",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Infecção",
+                "Dano": "0",
+                "Efeito": "Causa contágio em 50% de chance ao atacar."
+            }
+        ]
+    },
+    "Orc": {
+        "Vida": 40,
+        "Ataque": 7,
+        "Defesa": 3,
+        "Descricao": "Criaturas brutais e guerreiras, que vivem em tribos.",
+        "Habilidades": [
+            {
+                "Nome": "Machadada",
+                "Dano": "2d6",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Grito de Guerra",
+                "Dano": "0",
+                "Efeito": "Aumenta o ataque de todos os orcs em 2 por 3 turnos."
+            }
+        ]
+    },
+    "Dragão": {
+        "Vida": 200,
+        "Ataque": 20,
+        "Defesa": 10,
+        "Descricao": "Seres lendários que voam e exalam fogo.",
+        "Habilidades": [
+            {
+                "Nome": "Sopro de Fogo",
+                "Dano": "5d10",
+                "Tipo": "Fogo"
+            },
+            {
+                "Nome": "Golpe das Garras",
+                "Dano": "3d8",
+                "Tipo": "Físico"
+            }
+        ]
+    },
+    "Espectro": {
+        "Vida": 25,
+        "Ataque": 8,
+        "Defesa": 1,
+        "Descricao": "Almas perdidas que vagam sem descanso.",
+        "Habilidades": [
+            {
+                "Nome": "Toque Gélido",
+                "Dano": "1d8",
+                "Tipo": "Frio"
+            },
+            {
+                "Nome": "Possessão",
+                "Dano": "0",
+                "Efeito": "Pode tomar controle de um inimigo por 1 turno (50% de chance)."
+            }
+        ]
+    },
+    "Lobo Selvagem": {
+        "Vida": 20,
+        "Ataque": 6,
+        "Defesa": 1,
+        "Descricao": "Criaturas rápidas e astutas que caçam em matilhas.",
+        "Habilidades": [
+            {
+                "Nome": "Mordida",
+                "Dano": "1d4",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Rugido",
+                "Dano": "0",
+                "Efeito": "Intimida o alvo, reduzindo seu ataque em 2 por 1 turno."
+            }
+        ]
+    },
+    "Múmia": {
+        "Vida": 50,
+        "Ataque": 6,
+        "Defesa": 4,
+        "Descricao": "Corpos embalsamados que guardam segredos antigos.",
+        "Habilidades": [
+            {
+                "Nome": "Golpe com a Faca",
+                "Dano": "2d4",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Olho do Terror",
+                "Dano": "0",
+                "Efeito": "Causa medo, fazendo o alvo falhar no próximo ataque."
+            }
+        ]
+    },
+    "Golem de Pedra": {
+        "Vida": 100,
+        "Ataque": 10,
+        "Defesa": 8,
+        "Descricao": "Seres feitos de pedra, extremamente resistentes.",
+        "Habilidades": [
+            {
+                "Nome": "Soco Pesado",
+                "Dano": "3d6",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Rugido da Terra",
+                "Dano": "0",
+                "Efeito": "Causa tremores, reduzindo a defesa de todos os inimigos em 2 por 2 turnos."
+            }
+        ]
+    },
+    "Vampiro": {
+        "Vida": 70,
+        "Ataque": 9,
+        "Defesa": 5,
+        "Descricao": "Criaturas noturnas que se alimentam de sangue.",
+        "Habilidades": [
+            {
+                "Nome": "Mordida Vampírica",
+                "Dano": "2d8",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Regeneração",
+                "Dano": "0",
+                "Efeito": "Restaura 5 pontos de vida ao final de cada turno."
+            }
+        ]
+    },
+    "Banshee": {
+        "Vida": 35,
+        "Ataque": 4,
+        "Defesa": 1,
+        "Descricao": "Espírito que wail, causando medo e dor.",
+        "Habilidades": [
+            {
+                "Nome": "Grito Lamentoso",
+                "Dano": "3d4",
+                "Tipo": "Mental"
+            },
+            {
+                "Nome": "Desespero",
+                "Dano": "0",
+                "Efeito": "Reduz o ataque de todos os inimigos em 1 por 3 turnos."
+            }
+        ]
+    }
+}
+

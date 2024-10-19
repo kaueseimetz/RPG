@@ -1,0 +1,50 @@
+{
+    "Armadilhas": {
+        "Armadilha de Urso": {
+            "Dano": "4d8",
+            "Alcance": "Colocada no chão",
+            "Efeito": "Imobiliza o alvo por 2 turnos"
+        },
+        "Armadilha Explosiva": {
+            "Dano": "6d10",
+            "RaioExplosao": 3,
+            "Alcance": "Colocada no chão"
+        },
+        "Armadilha de Farpas": {
+            "Dano": "3d6",
+            "Alcance": "Colocada no chão"
+        },
+        "Mina Terrestre": {
+            "Dano": "5d10",
+            "RaioExplosao": 4,
+            "Alcance": "Colocada no chão"
+        },
+        "Armadilha Elétrica": {
+            "Dano": "4d8",
+            "Efeito": "Paralisa por 1 turno",
+            "Alcance": "Colocada no chão"
+        },
+        "Armadilha de Gás": {
+            "Efeito": "Envenena por 3 turnos",
+            "RaioEfeito": 3,
+            "Alcance": "Colocada no chão"
+        },
+        "Corda de Laço": {
+            "Efeito": "Prende o alvo",
+            "Alcance": "Colocada no chão"
+        },
+        "Armadilha Mágica de Teleporte": {
+            "Efeito": "Teleporta o alvo para uma área aleatória",
+            "Alcance": "Colocada no chão"
+        },
+        "Armadilha de Fogo": {
+            "Dano": "4d8 por turno",
+            "RaioFogo": 2,
+            "Alcance": "Colocada no chão"
+        },
+        "Armadilha de Sono": {
+            "Efeito": "Coloca o alvo em sono profundo por 1d4 turnos",
+            "Alcance": "Colocada no chão"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "LongoAlcance": {
+        "M16A2": {
+            "Dano": "4d12",
+            "Capacidade": 20,
+            "Municao": 5.56,
+            "Alcance": 500 
+        },
+        "M40A3": {
+            "Dano": "4d20",
+            "Capacidade": 1,
+            "Municao": 7.62,
+            "Alcance": 1000 
+        },
+        "Arco": {
+            "Dano": "1d20",
+            "Capacidade": 1,
+            "Alcance": 100 
+        },
+        "AK-47": {
+            "Dano": "3d12",
+            "Capacidade": 30,
+            "Municao": 7.62,
+            "Alcance": 400 
+        },
+        "Besta": {
+            "Dano": "3d10",
+            "Capacidade": 1,
+            "Alcance": 80 
+        },
+        "Rifle de Precisão Barret": {
+            "Dano": "5d20",
+            "Capacidade": 5,
+            "Municao": 0.50,
+            "Alcance": 2000 
+        },
+        "Lança-foguetes RPG-7": {
+            "Dano": "6d20",
+            "Capacidade": 1,
+            "Municao": "Foguete",
+            "Alcance": 150 
+        },
+        "Fuzil de Assalto G36": {
+            "Dano": "3d12",
+            "Capacidade": 30,
+            "Municao": 5.56,
+            "Alcance": 600 
+        },
+        "Lança-chamas": {
+            "Dano": "4d10 por turno (fogo)",
+            "Capacidade": "Tanque",
+            "Municao": "Combustível",
+            "Alcance": 20 
+        },
+        "Sniper Dragunov": {
+            "Dano": "4d20",
+            "Capacidade": 10,
+            "Municao": 7.62,
+            "Alcance": 1300 
+        }
+    }
+}

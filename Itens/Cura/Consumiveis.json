@@ -1,0 +1,60 @@
+{
+    "Consumiveis": {
+        "PocaoDeCuraLeve": {
+            "CuraBase": 4,
+            "Cura": "2d4",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Uma pequena poção vermelha que cura feridas leves."
+        },
+        "PocaoDeCuraModerada": {
+            "CuraBase": 6,
+            "Cura": "3d4",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Uma poção de tamanho médio que cura feridas mais graves."
+        },
+        "PocaoDeCuraCompleta": {
+            "CuraBase": 10,
+            "Cura": "4d6",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Uma poderosa poção dourada capaz de curar qualquer ferida."
+        },
+        "SoroDeRegeneracao": {
+            "CuraBase": 5,
+            "Cura": "2d8",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Um soro injetável que estimula a regeneração celular rapidamente."
+        },
+        "PoDeCuraMagico": {
+            "CuraBase": 3,
+            "Cura": "3d6",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Um pó brilhante que, ao ser inalado, cura feridas internas e externas."
+        },
+        "TisanaDeErvas": {
+            "CuraBase": 2,
+            "Cura": "2d4",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Uma bebida quente feita com ervas especiais, capaz de curar e desintoxicar."
+        },
+        "PoDeFenix": {
+            "CuraBase": 20,
+            "Cura": "4d10",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Uma substância rara que revive até mesmo os feridos mais graves."
+        },
+        "ElixirDeVida": {
+            "CuraBase": 12,
+            "Cura": "6d8",
+            "Usos": 1,
+            "Tipo": "Consumível",
+            "Descricao": "Uma bebida mística que revitaliza o corpo e restaura a vitalidade."
+        }
+    }
+}

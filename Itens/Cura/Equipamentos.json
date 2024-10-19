@@ -1,0 +1,18 @@
+{
+    "Equipamentos": {
+        "KitDePrimeirosSocorros": {
+            "CuraBase": 2,
+            "Cura": "1d6",
+            "Usos": 3,
+            "Tipo": "Equipamento",
+            "Descricao": "Um kit contendo ataduras, gazes e medicamentos básicos."
+        },
+        "BandagensEnfeitadas": {
+            "CuraBase": 2,
+            "Cura": "2d6",
+            "Usos": 4,
+            "Tipo": "Equipamento",
+            "Descricao": "Bandagens reforçadas com encantamentos de cura que também removem efeitos de sangramento."
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Arremessavel": {
+        "Granada": {
+            "Dano": "5d10",
+            "RaioExplosao": 5,
+            "Alcance": 15 
+        },
+        "Faca de Arremesso": {
+            "Dano": "1d6",
+            "Alcance": 10 
+        },
+        "Lança": {
+            "Dano": "2d8",
+            "Alcance": 20 
+        },
+        "Coquetel Molotov": {
+            "Dano": "3d6 por turno (fogo)",
+            "RaioExplosao": 3,
+            "Alcance": 10 
+        },
+        "Flashbang": {
+            "Efeito": "Cegueira e surdez temporária por 1d4 turnos",
+            "RaioExplosao": 8,
+            "Alcance": 15 
+        },
+        "Granada de Fumaça": {
+            "Efeito": "Cria uma cortina de fumaça por 3 turnos",
+            "RaioFumaca": 10,
+            "Alcance": 15 
+        },
+        "Bomba Adesiva": {
+            "Dano": "6d8",
+            "RaioExplosao": 3,
+            "Alcance": 10 
+        },
+        "Pedra Encantada": {
+            "Dano": "2d6",
+            "Tipo": "Mágico",
+            "Alcance": 15 
+        },
+        "Estrela Ninja": {
+            "Dano": "1d8",
+            "Alcance": 10 
+        },
+        "Granada EMP": {
+            "Efeito": "Desabilita eletrônicos em um raio de 10",
+            "Alcance": 10 
+        }
+    }
+}

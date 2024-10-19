@@ -1,0 +1,56 @@
+{
+    "Elfo": {
+        "Vida": 40,
+        "Ataque": 7,
+        "Defesa": 3,
+        "Descricao": "Seres ágeis e habilidosos, conhecidos por sua magia.",
+        "Habilidades": [
+            {
+                "Nome": "Flecha Mágica",
+                "Dano": "1d8",
+                "Tipo": "Mágico"
+            },
+            {
+                "Nome": "Camuflagem",
+                "Dano": "0",
+                "Efeito": "Aumenta a defesa em 2 por 2 turnos."
+            }
+        ]
+    },
+    "Anão": {
+        "Vida": 60,
+        "Ataque": 8,
+        "Defesa": 6,
+        "Descricao": "Seres robustos e resistentes, mestres na forja.",
+        "Habilidades": [
+            {
+                "Nome": "Machadada",
+                "Dano": "2d6",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Bênção do Ferreiro",
+                "Dano": "0",
+                "Efeito": "Aumenta a defesa de um aliado em 3 por 3 turnos."
+            }
+        ]
+    },
+    "Humano": {
+        "Vida": 50,
+        "Ataque": 6,
+        "Defesa": 4,
+        "Descricao": "Seres versáteis e adaptáveis, com grande potencial.",
+        "Habilidades": [
+            {
+                "Nome": "Golpe Rápido",
+                "Dano": "1d6",
+                "Tipo": "Físico"
+            },
+            {
+                "Nome": "Estratégia",
+                "Dano": "0",
+                "Efeito": "Permite que um aliado ataque imediatamente após."
+            }
+        ]
+    }
+}
